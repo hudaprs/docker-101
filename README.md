@@ -14,7 +14,7 @@ Run Docker with additional parameter:
 docker run <image> <command>
 ```
 
-Example of **********\*\*\*\***********Run Docker with additional parameter**********\*\*\*\***********:
+Example of **Run Docker with additional parameter**:
 
 ```bash
 docker run busybox ls
